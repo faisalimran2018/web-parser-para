@@ -1,0 +1,7 @@
+1] Get text out of <p>
+
+2] Date extraction using 3D (3 days ago)
+
+3] Number of likes, comments and repost... depending upon the length list ... eg. len=3
+
+
